@@ -1,0 +1,6 @@
+*.swp
+*~
+*.out
+*.log
+*.log.*
+*.bak
