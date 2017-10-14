@@ -1,5 +1,12 @@
 .pageheader{
   background: no-repeat center/cover url("../img/headero.png");
-  height: 100%;
+  height: 100vh;
   width: 100%;
+  padding-top: 40vh;
+}
+
+.pageheader .text{
+  font-family: "Goudy Bookletter 1911";
+  color: #fff;
+  text-align: center;
 }
