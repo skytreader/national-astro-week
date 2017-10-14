@@ -9,4 +9,5 @@
   font-family: "Goudy Bookletter 1911";
   color: #fff;
   text-align: center;
+  filter: drop-shadow(8px 8px 3px #000);
 }
