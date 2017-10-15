@@ -34,3 +34,13 @@ h1, h2, h3, h4, h5, h6{
   margin-top: 1em;
   padding-right: 8px;
 }
+
+.about .gallery{
+  margin: 24px inherit;
+  padding: 14px;
+  width: 100%;
+  display: flex;
+  background: #464234;
+  filter: opacity(0.84);
+  border-radius: 8px;
+}
