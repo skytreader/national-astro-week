@@ -19,6 +19,10 @@ h1, h2, h3, h4, h5, h6{
   filter: drop-shadow(8px 8px 3px #000);
 }
 
+.pageheader a{
+  color: #7f86db;
+}
+
 .about{
   background: linear-gradient(0deg, rgba(234, 188, 43, 0.8), rgba(234, 188, 43, 0.8)), no-repeat center/cover url("../img/tungkol.png");
   min-height: 100vh;
@@ -53,4 +57,12 @@ h1, h2, h3, h4, h5, h6{
 
 .about .gallery img{
   filter: opacity(1);
+}
+
+.events{
+  background: linear-gradient(0deg, rgba(175, 175, 175, 0.8), rgba(175, 175, 175, 0.2)), no-repeat center/cover url("../img/events.png");
+  height: 100vh;
+  width: 100%;
+  padding: 14vh 34px;
+  color: #333;
 }
