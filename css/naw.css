@@ -68,7 +68,22 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .events .semicalendar{
-  height: 80vh;
+  min-height: 80vh;
   width: 100%;
+}
+
+.events .semicalendar .event-listing{
+  height: 78vh;
   overflow-y: scroll;
+  margin: 8px;
+}
+
+.events .add-section{
+  text-align: right;
+}
+
+.events .add-section .btn{
+  text-align: right;
+  background: rgb(234, 188, 43);
+  color: #fff;
 }
