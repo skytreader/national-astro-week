@@ -72,10 +72,21 @@ h1, h2, h3, h4, h5, h6{
   width: 100%;
 }
 
-.events .semicalendar .event-listing{
+.events .event-listing{
   height: 78vh;
   overflow-y: scroll;
   margin: 8px;
+}
+
+.events .date-slot{
+  height: 40vh;
+}
+
+.event-listing .date{
+  text-align: center;
+  padding-top: 10vh;
+  border-right: 1px solid #464234;
+  height: 100%;
 }
 
 .events .add-section{
