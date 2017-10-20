@@ -46,4 +46,6 @@ $(document).ready(function(){
   $("#kaganapan-link").click(function(){
     doScrolling("#kaganapan", 3000);
   });
+
+  insertEventList(dec8Events, "dis8");
 });
