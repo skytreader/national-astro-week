@@ -49,4 +49,8 @@ $(document).ready(function(){
 
   insertEventList(dec8Events, "dis8");
   insertEventList(dec9Events, "dis9");
+  insertEventList(dec10Events, "dis10");
+  insertEventList(dec11Events, "dis11");
+  insertEventList(dec12Events, "dis12");
+  insertEventList(dec13Events, "dis13");
 });
