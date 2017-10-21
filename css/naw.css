@@ -74,8 +74,12 @@ h1, h2, h3, h4, h5, h6{
 
 .events .event-listing{
   height: 78vh;
-  overflow-y: scroll;
+  overflow-y: hidden;
   margin: 8px;
+}
+
+.events .ev-listing-body{
+  overflow-y: scroll;
 }
 
 .events .date-slot{

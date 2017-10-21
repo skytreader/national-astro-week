@@ -48,4 +48,5 @@ $(document).ready(function(){
   });
 
   insertEventList(dec8Events, "dis8");
+  insertEventList(dec9Events, "dis9");
 });
